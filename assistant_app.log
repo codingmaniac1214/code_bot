@@ -1,0 +1,342 @@
+2025-08-05 16:45:13,857 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:45:13,858 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:45:23,831 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:45:23,840 [INFO] Ensured directories for project: t0
+2025-08-05 16:45:23,841 [INFO] Created new project: t0
+2025-08-05 16:45:23,850 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:45:23,850 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-05 16:45:24,013 [WARNING] No sentence-transformers model found with name sentence-transformers/all-MiniLM-L6-v2. Creating a new one with mean pooling.
+2025-08-05 16:45:24,038 [INFO] Could not load embedding model: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1018)')))"), '(Request ID: 2f76d3e5-b5ca-488a-bafb-3d01e6676fdf)'). Falling back to TF-IDF.
+2025-08-05 16:45:24,039 [INFO] Using TF-IDF vectorizer for embeddings.
+2025-08-05 16:46:07,979 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:46:11,410 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:46:11,433 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:46:11,433 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:46:12,873 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:46:12,875 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:46:12,875 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:46:12,949 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:46:17,667 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:46:17,671 [INFO] Ensured directories for project: t0
+2025-08-05 16:46:17,811 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:46:17,812 [INFO] Uploaded 1 files to project t0.
+2025-08-05 16:46:17,816 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:46:17,816 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:46:17,896 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:46:17,896 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:46:17,898 [INFO] Chunked 1 files into 11 code chunks.
+2025-08-05 16:46:17,898 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 16:46:18,091 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:46:56,764 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:46:56,775 [INFO] Ensured directories for project: t0
+2025-08-05 16:46:56,796 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:46:56,797 [INFO] Uploaded 1 files to project t0.
+2025-08-05 16:46:56,804 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:46:56,804 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:46:56,914 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:46:56,915 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:46:56,915 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:46:56,919 [INFO] Chunked 1 files into 11 code chunks.
+2025-08-05 16:46:56,919 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 16:46:57,122 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:47:01,456 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:47:01,465 [INFO] Ensured directories for project: t0
+2025-08-05 16:47:01,515 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:47:01,516 [INFO] Uploaded 1 files to project t0.
+2025-08-05 16:47:01,524 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:47:01,524 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:47:01,604 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:47:01,605 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:47:01,605 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:47:01,607 [INFO] Chunked 1 files into 11 code chunks.
+2025-08-05 16:47:01,607 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 16:47:01,814 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:47:01,972 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 16:47:01,972 [INFO] Built prompt for LLM.
+2025-08-05 16:47:01,974 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 16:47:04,007 [INFO] Error communicating with Ollama: 404 Client Error: Not Found for url: http://localhost:11434/api/chat
+2025-08-05 16:47:04,011 [INFO] Displayed answer and prompt to user.
+2025-08-05 16:48:02,654 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:48:02,670 [INFO] Ensured directories for project: t0
+2025-08-05 16:48:02,745 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:48:02,746 [INFO] Uploaded 1 files to project t0.
+2025-08-05 16:48:02,755 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:48:02,755 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:48:02,825 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:48:02,825 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:48:02,826 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:48:02,827 [INFO] Chunked 1 files into 11 code chunks.
+2025-08-05 16:48:02,828 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 16:48:03,041 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:48:03,227 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 16:48:03,227 [INFO] Built prompt for LLM.
+2025-08-05 16:48:03,229 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 16:51:32,761 [INFO] Error parsing Ollama response JSON: Extra data: line 2 column 1 (char 126)
+2025-08-05 16:51:32,847 [INFO] Displayed answer and prompt to user.
+2025-08-05 16:54:15,361 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:54:15,372 [INFO] Ensured directories for project: t0
+2025-08-05 16:54:15,403 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:54:15,404 [INFO] Uploaded 1 files to project t0.
+2025-08-05 16:54:15,408 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:54:15,408 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:54:15,486 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:54:15,486 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:54:15,486 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:54:15,488 [INFO] Chunked 1 files into 11 code chunks.
+2025-08-05 16:54:15,489 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 16:54:15,675 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:54:30,145 [INFO] sentence-transformers loaded successfully.
+2025-08-05 16:54:30,163 [INFO] Ensured directories for project: t0
+2025-08-05 16:54:30,211 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:54:30,212 [INFO] Uploaded 1 files to project t0.
+2025-08-05 16:54:30,216 [INFO] Use pytorch device_name: cpu
+2025-08-05 16:54:30,216 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 16:54:30,314 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 16:54:30,315 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:54:30,315 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\t0\raw\export.js
+2025-08-05 16:54:30,317 [INFO] Chunked 1 files into 11 code chunks.
+2025-08-05 16:54:30,317 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 16:54:30,523 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\t0\embeddings.pkl
+2025-08-05 16:54:30,667 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 16:54:30,668 [INFO] Built prompt for LLM.
+2025-08-05 16:54:30,670 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 16:58:00,771 [INFO] Received answer from Ollama (streaming).
+2025-08-05 16:58:00,838 [INFO] Displayed answer and prompt to user.
+2025-08-05 17:50:12,308 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:50:12,315 [INFO] Ensured directories for project: WWW-war
+2025-08-05 17:50:12,316 [INFO] Created new project: WWW-war
+2025-08-05 17:50:12,325 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:50:12,325 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:50:12,457 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:50:12,463 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:50:12,463 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:50:12,571 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:50:16,747 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:50:21,455 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:50:21,532 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:50:21,532 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:50:22,171 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:50:22,218 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:50:22,219 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:50:22,785 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:50:32,069 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:50:32,080 [INFO] Ensured directories for project: WWW-war
+2025-08-05 17:50:32,121 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\desktop.js
+2025-08-05 17:50:32,144 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\entities.js
+2025-08-05 17:50:32,158 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\export.js
+2025-08-05 17:50:32,171 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\fileDownload.js
+2025-08-05 17:50:32,189 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\finder.js
+2025-08-05 17:50:32,205 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\generalHelp.js
+2025-08-05 17:50:32,218 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\helpPages.js
+2025-08-05 17:50:32,233 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\home.js
+2025-08-05 17:50:32,248 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\imports.js
+2025-08-05 17:50:32,263 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\index.js
+2025-08-05 17:50:32,279 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\initialise.js
+2025-08-05 17:50:32,295 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\notifications.js
+2025-08-05 17:50:32,310 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\registry.js
+2025-08-05 17:50:32,326 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\rights.js
+2025-08-05 17:50:32,342 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\settings.js
+2025-08-05 17:50:32,361 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\systemFooter.js
+2025-08-05 17:50:32,378 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\userSettings.js
+2025-08-05 17:50:32,465 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\util.js
+2025-08-05 17:50:32,466 [INFO] Uploaded 18 files to project WWW-war.
+2025-08-05 17:50:32,480 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:50:32,480 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:50:32,675 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:50:32,675 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\desktop.js
+2025-08-05 17:50:32,703 [INFO] Chunked 18 files into 390 code chunks.
+2025-08-05 17:50:32,703 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 17:51:13,298 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:52:21,052 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:52:21,070 [INFO] Ensured directories for project: WWW-war
+2025-08-05 17:52:21,093 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\desktop.js
+2025-08-05 17:52:21,113 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\entities.js
+2025-08-05 17:52:21,136 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\export.js
+2025-08-05 17:52:21,154 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\fileDownload.js
+2025-08-05 17:52:21,172 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\finder.js
+2025-08-05 17:52:21,191 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\generalHelp.js
+2025-08-05 17:52:21,207 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\helpPages.js
+2025-08-05 17:52:21,223 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\home.js
+2025-08-05 17:52:21,240 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\imports.js
+2025-08-05 17:52:21,256 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\index.js
+2025-08-05 17:52:21,271 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\initialise.js
+2025-08-05 17:52:21,288 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\notifications.js
+2025-08-05 17:52:21,307 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\registry.js
+2025-08-05 17:52:21,323 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\rights.js
+2025-08-05 17:52:21,337 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\settings.js
+2025-08-05 17:52:21,355 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\systemFooter.js
+2025-08-05 17:52:21,370 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\userSettings.js
+2025-08-05 17:52:21,388 [INFO] Saved uploaded file: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\util.js
+2025-08-05 17:52:21,389 [INFO] Uploaded 18 files to project WWW-war.
+2025-08-05 17:52:21,399 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:52:21,399 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:52:21,501 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:52:21,502 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:52:21,503 [INFO] File changed or new: C:\Users\nimish.gupta\code_bot\projects\WWW-war\raw\desktop.js
+2025-08-05 17:52:21,569 [INFO] Chunked 18 files into 390 code chunks.
+2025-08-05 17:52:21,570 [INFO] Computing SBERT embeddings for code chunks.
+2025-08-05 17:52:52,675 [INFO] Saved embeddings to C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:52:55,169 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:52:58,770 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:52:58,784 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:52:58,786 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:52:58,891 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:52:58,892 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:52:58,893 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:52:58,894 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:52:58,896 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:52:58,897 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:52:58,994 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:53:31,895 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:53:31,913 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:53:31,913 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:53:31,989 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:53:31,989 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:53:31,992 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:53:31,993 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:53:31,996 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:53:31,996 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:53:32,088 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:53:34,453 [INFO] sentence-transformers loaded successfully.
+2025-08-05 17:53:34,480 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:53:34,480 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:53:34,564 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:53:34,566 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:53:34,568 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:53:34,569 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 17:53:34,571 [INFO] Use pytorch device_name: cpu
+2025-08-05 17:53:34,571 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 17:53:34,674 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 17:53:34,965 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 17:53:34,965 [INFO] Built prompt for LLM.
+2025-08-05 17:53:34,966 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 17:55:07,261 [INFO] Received answer from Ollama (streaming).
+2025-08-05 17:55:07,320 [INFO] Displayed answer and prompt to user.
+2025-08-05 18:00:05,578 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:00:05,633 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:00:05,633 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:00:05,676 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:00:05,735 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:00:05,736 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:00:05,769 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:00:06,099 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:00:06,099 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:00:06,101 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:00:06,102 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:00:06,104 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:00:06,104 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:00:06,202 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:00:06,561 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 18:00:06,561 [INFO] Built prompt for LLM.
+2025-08-05 18:00:06,563 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 18:02:19,887 [INFO] Received answer from Ollama (streaming).
+2025-08-05 18:02:19,904 [INFO] Displayed answer and prompt to user.
+2025-08-05 18:03:10,986 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:03:11,017 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:03:11,017 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:03:11,346 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:03:11,348 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:03:11,350 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:03:11,351 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:03:11,354 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:03:11,354 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:03:11,426 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:05:52,487 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:05:52,544 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:05:52,544 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:05:52,726 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:05:52,727 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:05:52,729 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:05:52,731 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:05:52,733 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:05:52,733 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:05:52,811 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:06:18,825 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:06:18,859 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:06:18,859 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:06:18,953 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:06:18,954 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:06:18,957 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:06:18,957 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:06:18,960 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:06:18,960 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:06:18,974 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:06:19,005 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:06:19,005 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:06:19,160 [INFO] Could not load embedding model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.. Falling back to TF-IDF.
+2025-08-05 18:06:19,412 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:06:19,416 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:06:19,421 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:06:19,422 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:06:19,427 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:06:19,427 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:06:19,527 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:06:19,695 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 18:06:19,696 [INFO] Built prompt for LLM.
+2025-08-05 18:06:19,704 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 18:08:15,320 [INFO] Received answer from Ollama (streaming).
+2025-08-05 18:08:15,373 [INFO] Displayed answer and prompt to user.
+2025-08-05 18:09:32,780 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:09:32,850 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:09:32,876 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:09:33,118 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:09:33,118 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:09:33,125 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:09:33,126 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:09:33,133 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:09:33,133 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:09:33,351 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:10:07,351 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:10:07,368 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:10:07,368 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:10:07,426 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:10:07,466 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:10:07,817 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:10:07,817 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:10:07,991 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:10:07,991 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:10:07,994 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:10:07,995 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:10:07,999 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:10:07,999 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:10:08,142 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:10:08,439 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 18:10:08,439 [INFO] Built prompt for LLM.
+2025-08-05 18:10:08,441 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 18:11:32,209 [INFO] Received answer from Ollama (streaming).
+2025-08-05 18:11:32,251 [INFO] Displayed answer and prompt to user.
+2025-08-05 18:14:51,605 [INFO] sentence-transformers loaded successfully.
+2025-08-05 18:14:51,648 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:14:51,649 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:14:51,916 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:14:51,917 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:14:51,926 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:14:51,928 [INFO] Loaded embeddings from C:\Users\nimish.gupta\code_bot\projects\WWW-war\embeddings.pkl
+2025-08-05 18:14:51,937 [INFO] Use pytorch device_name: cpu
+2025-08-05 18:14:51,937 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-05 18:14:52,168 [INFO] Loaded sentence-transformers embedding model.
+2025-08-05 18:14:52,257 [INFO] Selected top 5 code chunks for the query.
+2025-08-05 18:14:52,258 [INFO] Built prompt for LLM.
+2025-08-05 18:14:52,261 [INFO] Sending prompt to Ollama LLM.
+2025-08-05 18:15:57,309 [INFO] Received answer from Ollama (streaming).
+2025-08-05 18:15:57,332 [INFO] Displayed answer and prompt to user.
+2025-08-05 19:04:02,370 [INFO] sentence-transformers loaded successfully.
+2025-08-05 19:04:46,394 [INFO] sentence-transformers loaded successfully.
+2025-08-06 11:30:02,524 [INFO] sentence-transformers loaded successfully.
+2025-08-06 11:30:12,221 [INFO] sentence-transformers loaded successfully.
+2025-08-06 11:30:12,230 [INFO] Ensured directories for project: t1
+2025-08-06 11:30:12,231 [INFO] Created new project: t1
+2025-08-06 11:30:12,249 [INFO] Use pytorch device_name: cpu
+2025-08-06 11:30:12,249 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-06 11:30:12,437 [INFO] Loaded sentence-transformers embedding model.
+2025-08-06 11:30:12,441 [INFO] Use pytorch device_name: cpu
+2025-08-06 11:30:12,441 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-06 11:30:12,516 [INFO] Loaded sentence-transformers embedding model.
+2025-08-06 11:30:14,536 [INFO] sentence-transformers loaded successfully.
+2025-08-06 11:30:22,217 [INFO] sentence-transformers loaded successfully.
+2025-08-06 11:30:22,235 [INFO] Use pytorch device_name: cpu
+2025-08-06 11:30:22,235 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-06 11:30:22,306 [INFO] Loaded sentence-transformers embedding model.
+2025-08-06 11:30:22,309 [INFO] Use pytorch device_name: cpu
+2025-08-06 11:30:22,309 [INFO] Load pretrained SentenceTransformer: ./models/all-MiniLM-L6-v2
+2025-08-06 11:30:22,418 [INFO] Loaded sentence-transformers embedding model.
